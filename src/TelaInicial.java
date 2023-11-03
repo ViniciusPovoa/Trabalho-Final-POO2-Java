@@ -24,7 +24,7 @@ public class TelaInicial extends javax.swing.JFrame {
      */
     public TelaInicial() {
         initComponents();
-        setTitle("EasyPark Software");
+        setTitle("EasyParking Software");
        
     ImageIcon icon = new ImageIcon(getClass().getResource("/resources/trabalho.png")); 
     setIconImage(icon.getImage());

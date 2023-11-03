@@ -5,7 +5,7 @@ import java.awt.*;
 public class TicketDialog extends JDialog {
 
     public TicketDialog(Veiculo veiculo, VeiculoVisitor visitor) {
-        setTitle("Easy Park - Ticket de Veículo");
+        setTitle("Easy Parking - Ticket de Veículo");
         ImageIcon icon = new ImageIcon(getClass().getResource("/resources/trabalho.png"));
         setIconImage(icon.getImage());
         setSize(400, 200);

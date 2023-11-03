@@ -59,3 +59,7 @@ test;Carro;3232;23:12
 test;Carro;3232;23:13
 test;Carro;3232;23:14
 trst;Carro;3232;23:16
+Vinícius;Carro;HIH-5081;10:16
+test;Carro;3232;14:17
+Vinícius;Carro;ABC-0000;14:17
+Vinícius;Carro;ABC-0000;14:18

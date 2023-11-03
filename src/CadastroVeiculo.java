@@ -30,7 +30,7 @@ public final class CadastroVeiculo extends javax.swing.JFrame {
         this.parent = t;
         initComponents();
         labelTeste.setText(obterHora());
-        setTitle("EasyPark Software");
+        setTitle("EasyParking Software");
         ImageIcon icon = new ImageIcon(getClass().getResource("/resources/trabalho.png"));
         setIconImage(icon.getImage());
 

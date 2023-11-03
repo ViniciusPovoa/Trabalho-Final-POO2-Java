@@ -17,7 +17,7 @@ public class Visualizar extends javax.swing.JFrame implements VeiculoObserver {
 
     public Visualizar(HashMap<String, Veiculo> veiculos, TelaInicial tela, PagamentoStrategy strategy) {
         initComponents();
-        setTitle("EasyPark Software");
+        setTitle("EasyParking Software");
         ImageIcon icon = new ImageIcon(getClass().getResource("/resources/trabalho.png"));
         setIconImage(icon.getImage());
         this.veiculos = veiculos;
