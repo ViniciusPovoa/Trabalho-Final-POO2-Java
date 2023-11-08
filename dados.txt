@@ -63,3 +63,6 @@ Vinícius;Carro;HIH-5081;10:16
 test;Carro;3232;14:17
 Vinícius;Carro;ABC-0000;14:17
 Vinícius;Carro;ABC-0000;14:18
+Patrícia;Carro;HIH-0817;16:45
+vinicius;Carro;hih-5081;15:01
+vinicius;Carro;hih-5081;15:01

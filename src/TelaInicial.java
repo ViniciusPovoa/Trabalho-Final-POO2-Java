@@ -176,6 +176,8 @@ public class TelaInicial extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(this, "Nenhum usuário cadastrado.");
         } else {
             Object[] possibleValues = veiculos.keySet().toArray();
+            int novoValor = Integer.parseInt(vagasLabel.getText()) + 1;
+            vagasLabel.setText(String.valueOf(novoValor));
             Object selectedValue = JOptionPane.showInputDialog(
                     this, "Escolha o usuário", "Escolha", JOptionPane.INFORMATION_MESSAGE,
                     null, possibleValues, possibleValues[0]);
